@@ -10,7 +10,7 @@ Para ejecutar el presente proyecto es importante tener instaladas las siguientes
 
 - IDE: Puedes utilizar cualquier IDE compatible con Java, como IntelliJ IDEA, Eclipse, o VSCode. Una vez instalado deberas configurar los plugins adecuados para soportar Cucumber y Serenity BDD. 
 
-# Directoria de carpetas 
+# Directorio de carpetas 
 - src
   - test
     - java  
