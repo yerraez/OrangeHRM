@@ -1,0 +1,14 @@
+jsonbase/definitions/RegisterUserDefinition.class
+jsonbase/pages/validations/ValidationLogin.class
+jsonbase/pages/otherpagepackages/LoginPage.class
+jsonbase/steps/RegisterUserFinders.class
+jsonbase/definitions/LoginDefinition.class
+jsonbase/definitions/LogoutDefinition.class
+jsonbase/steps/LogoutFinders.class
+jsonbase/utilities/Website.class
+jsonbase/steps/LoginFinders.class
+jsonbase/pages/otherpagepackages/LogoutPage.class
+jsonbase/steps/SuccessfulLoginPage.class
+jsonbase/pages/otherpagepackages/AdminPage.class
+jsonbase/pages/validations/ValidationSuccessfulUser.class
+Runner.class

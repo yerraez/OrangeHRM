@@ -1,0 +1,3 @@
+1. El ejercicio tiene cierto nivel de complejidad debido a los localizados, mismos que no cuentan con muchas opciones para encontrarlos.
+2. El localizador xpath fue el mas usuado, ya que, debido a su robustez permitio encontrar elementos de manera mas sencilla y rapida.
+3. En el caso de los elementos similares dentro de la pantalla Add, se tuvo que encontrar la manera de diferenciar los xpath mediante el indice.
